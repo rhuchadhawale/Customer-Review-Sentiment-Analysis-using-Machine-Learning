@@ -1,0 +1,32 @@
+Amazon Review Sentiment Analysis
+
+Project Overview
+This project analyzes Amazon customer reviews and classifies them as positive or negative using Natural Language Processing (NLP) and Machine Learning techniques.
+
+Objective
+To build a sentiment classification model that helps businesses understand customer feedback and improve product decisions.
+
+Technologies Used
+Python
+Pandas
+Scikit-learn
+TF-IDF Vectorization
+Matplotlib
+
+Process
+Text cleaning and preprocessing
+Feature extraction using TF-IDF
+Model training and evaluation
+Performance comparison
+
+Models Used
+Naive Bayes
+Logistic Regression
+
+Results
+The model successfully classified customer reviews with high accuracy and demonstrated the effectiveness of machine learning for sentiment analysis tasks.
+
+Business Impact
+Identify negative customer feedback
+Improve product quality
+Support data-driven decision-making
