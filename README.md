@@ -1,0 +1,2 @@
+# Customer-Review-Sentiment-Analysis-using-Machine-Learning
+This project analyzes Amazon customer reviews and classifies them as positive or negative using Natural Language Processing techniques. Text preprocessing, TF-IDF vectorization, and machine learning models were used to build a sentiment classification system. The model helps businesses understand customer feedback and improve product strategy
